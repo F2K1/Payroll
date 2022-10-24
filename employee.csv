@@ -1,0 +1,10 @@
+ID,Name,Surname,Role,Pay,Hours,Bonus
+01,John,Smith,clerk,2000,0,0
+02,Mick,Schmidt,clerk,1500,3,0
+03,Artan,McAlister,clerk,2100,1,0
+04,Hans,Von-Kraus,manager,3000,0,230
+05,Uri,Moskovich,manager,2600,0,150
+06,Alexa,Karlin,manager,2500,0,130
+07,Alexandra,Schindler,contractor,15,15,0
+08,Will,Reynolds,contractor,20,20,0
+09,Jim,Kimmel,contractor,18,12,0
